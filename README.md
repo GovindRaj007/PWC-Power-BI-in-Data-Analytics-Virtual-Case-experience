@@ -12,5 +12,7 @@ Possible KPIs include:
 * Average speed of answer
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+[Call Center Trends ](https://github.com/GovindRaj007/PWC-Power-BI-in-Data-Analytics-Virtual-Case-experience/blob/b56c6031865c694e9ab43ddbef5da11cecedcf2a/Task%201%20Call%20Center%20Trends/call%20center%20dashboard(power%20BI).pbix) 
+
 
 
