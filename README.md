@@ -5,9 +5,9 @@ Created a dashboard in Power BI for Claire that reflects all relevant Key Perfor
 
 Possible KPIs include:
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls Resolved
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+1.Overall customer satisfaction
+2.Overall calls answered/abandoned
+3.Calls Resolved
+4.Calls by time
+5.Average speed of answer
+6.Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
