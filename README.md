@@ -1,6 +1,6 @@
-# PWC-Power-BI-in-Data-Analytics-Virtual-Case-experience
+ # PWC-Power-BI-in-Data-Analytics-Virtual-Case-experience
 
-**Task 2: Call Centre Trends**
+**Task 1: Call Centre Trends**
 
 Created a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 
@@ -15,7 +15,7 @@ Possible KPIs include:
 
 [Dashboard image](https://github.com/GovindRaj007/PWC-Power-BI-in-Data-Analytics-Virtual-Case-experience/blob/b56c6031865c694e9ab43ddbef5da11cecedcf2a/Task%201%20Call%20Center%20Trends/call%20center%20dashboard(power%20BI).pbix) 
 
-**Task 3: Customer Churn**
+**Task 2: Customer Churn**
 
 Create a Dashboard that reflects customer churn. Some inputs that could be considered
 
