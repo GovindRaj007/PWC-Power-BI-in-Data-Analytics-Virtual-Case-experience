@@ -24,7 +24,7 @@ Create a Dashboard that reflects customer churn. Some inputs that could be consi
 * Demographic info about customers – gender, age range, and if they have partners and dependents
 * Customers who left within the last month
 
-[Dashboard image]()
+[Dashboard image](https://github.com/GovindRaj007/PWC-Power-BI-in-Data-Analytics-Virtual-Case-experience/blob/main/Task%202%20Customer%20Churn/Customer%20Retention%20dashboard.pbix)
 
 
 
